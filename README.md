@@ -1,5 +1,7 @@
 # code_TransAlbedo_HK
 
+[![DOI](https://zenodo.org/badge/1276067909.svg)](https://zenodo.org/doi/10.5281/zenodo.20828141)
+
 ## Introduction
 
 This repository is supplementary to the paper "Sun, Y., Fu, W., Schultz, D. M., He, C., Tai, A. P. K., Tam, C. Y., & Zheng, Z. (2026). Future atmospheric and urban responses to phased deployment of white roofs in Hong Kong, China."
